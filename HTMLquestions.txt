@@ -1,0 +1,29 @@
+HTML quiz
+
+What does HTML stand for?  Hyper Text Markup Language
+
+What does CSS stand for?  Cascading Style sheets
+
+Who makes Web standards?  The World Wide Web Consortium
+
+Which HTML element will make the largest heading?  <h1>
+
+What code inserts a line break?  <br>
+
+What HTML adds a background color?  <body style="background-color:powderblue;">
+
+What is one way to make text bold?  <b>
+
+What does HREF stand for?  Hypertext Reference
+
+What does A stand for?  anchor tag
+
+What is the correct HTML for creating a hyperlink? <a href="url">link text</a>
+
+How can you open a link in a new tab/browser window? <a href="url" target="_blank">
+
+How do you make a bulleted HTML list? <ul> and <li>
+
+What is the HTML for making a checkbox? <input type="checkbox">
+
+What is the most important HTML element for a form? <input>

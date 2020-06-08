@@ -1,12 +1,12 @@
 body {
-    background-image: url("../images/flamingoes.jpg");
+    background-image: url("../images/electronics.jpg");
     font-family: Gill Sans, sans-serif; ;
   }
 
 .heading {
     max-width: 960px;
     margin: 0 auto;
-    color: #AF1E29;
+    color: rgba(19, 5, 76, 0.653);
     font-size: 40px;
     text-align: center;
     font-weight: bold;
@@ -16,7 +16,7 @@ body {
 .header2 {
     max-width: 960px;
     margin: 0 auto;
-    color: #717D7E;
+    color: rgb(38, 62, 76);
     font-size: 28px;
     text-align: center;    
 }
@@ -28,7 +28,7 @@ body {
     margin-bottom: -50px;
     padding 20px;
     background-color: white;
-    border-color: #dddddd;
+    border-color: rgb(38, 62, 76);
 }
 .content {
     display: inline-block;
@@ -40,7 +40,7 @@ input[type=text], select {
     padding: 12px 20px;
     margin: 8px 0;
     display: inline-block;
-    border: 1px solid #dddddd;
+    border: 1px solid rgb(38, 62, 76);
     border-radius: 4px;
     box-sizing: border-box;
   }
@@ -57,7 +57,7 @@ input[type=text], select {
   }
   
   input[type=submit]:hover {
-    background-color: #88888E;
+    background-color: rgb(38, 62, 76);
   }
   
   div {
