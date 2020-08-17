@@ -101,7 +101,7 @@ var questions = [
 ]
 
 var userScore = 0;
-var timeLeft = 20;0
+var timeLeft = 20;
 
 //quiz--display first question
 
